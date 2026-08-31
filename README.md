@@ -23,6 +23,16 @@ AI/
 │       ├── requirements.txt
 │       ├── theory_answers.md
 |
+|
+├── Day3/
+│   └── meeting-prep-agent/
+│       ├── Meeting_Prep_Agent.ipynb
+│       ├── README.md
+│       ├── requirements.txt
+│       ├── data/
+│       ├── memory/
+│       └── screenshots/
+│
 └── README.md
 ```
 
@@ -71,3 +81,32 @@ A mini semantic search engine built using Sentence Transformers and FAISS, demon
 - Perform Top-3 semantic similarity search
 - Interactive command-line search interface
 - Theory notes explaining FAISS indexing and Approximate Nearest Neighbour (ANN) search
+
+# Day 3
+
+## AI Meeting Preparation Agent
+
+An AI-powered meeting preparation assistant that uses **Retrieval-Augmented Generation (RAG)**, **ChromaDB**, and the **Google Gemini API** to help users prepare for upcoming client meetings by retrieving relevant information from multiple sources and generating concise meeting briefs.
+
+### Technologies Used
+
+- Python
+- Google Gemini API
+- ChromaDB
+- Sentence Transformers (`all-MiniLM-L6-v2`)
+- python-dotenv
+- JSON (Long-Term Memory)
+
+### Features
+
+- Retrieval-Augmented Generation (RAG)
+- ChromaDB persistent vector database
+- Semantic document retrieval
+- Agentic workflow with multiple tools
+- Client profile retrieval
+- Previous meeting notes retrieval
+- Open action item retrieval
+- Long-term memory using JSON
+- Interactive conversational interface
+- Automatic meeting brief generation
+- Support for follow-up questions using conversation context
