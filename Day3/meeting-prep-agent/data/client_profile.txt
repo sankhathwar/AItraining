@@ -1,0 +1,26 @@
+Company: Acme Corp
+
+Industry:
+Manufacturing
+
+Headquarters:
+New York
+
+Primary Contact:
+Sarah Johnson
+Director of Operations
+
+Current Products:
+Inventory Management Platform
+
+Pain Points:
+- Manual workflows
+- Slow reporting
+- ERP integration
+- Dashboard customization
+
+Deal Stage:
+Proposal Sent
+
+Budget:
+$120,000

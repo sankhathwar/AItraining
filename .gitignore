@@ -1,0 +1,33 @@
+# Environment
+.env
+**/.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ChromaDB
+chroma_db/
+**/chroma_db/
+
+# Generated output
+output/
+**/output/
+
+# macOS
+.DS_Store# Environment files
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# ChromaDB
+chroma_db/

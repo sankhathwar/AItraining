@@ -1,0 +1,11 @@
+{
+    "Acme Corp": {
+        "Relationship": "Warm Lead",
+        "Preferred Topics": [
+            "ERP Integration",
+            "Automation",
+            "SAP"
+        ],
+        "Last Meeting": "Client showed strong interest in SAP integration."
+    }
+}
